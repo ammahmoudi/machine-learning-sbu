@@ -1,0 +1,24 @@
+# Local Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Local secrets
+.env
+.env.*
+!.env.example
+
+# Downloaded and derived datasets; keep the catalog tracked
+/data/raw/**
+/data/processed/**
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Course materials and local submission bundles
+*.pdf
+*.zip

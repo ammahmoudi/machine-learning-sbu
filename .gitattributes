@@ -1,0 +1,7 @@
+*.py text eol=lf
+*.md text eol=lf
+*.toml text eol=lf
+*.yml text eol=lf
+*.ipynb text eol=lf
+uv.lock text eol=lf linguist-generated=true
+assignments/**/results/** linguist-generated=true
