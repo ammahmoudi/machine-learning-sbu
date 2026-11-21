@@ -38,6 +38,8 @@ def main():
     md(r"""
     # Homework 1: Linear Regression
 
+    **Amirhossein Mahmoudi**
+
     **Machine Learning · Dr. Ali Katanforosh**  
     **MSc Computer Science · Shahid Beheshti University**
 
